@@ -5,22 +5,7 @@
     background-position: right -75px;
 }
 
-.home header{
-    margin-left: 40px;
-}
 
-.home header nav li{
-    line-height: 30px;
-}
-
-.home header nav ul li a{
-    text-transform: uppercase;
-    color: gray;
-}
-
-.home header a{
-    color: black;
-}
 
 .home h2{
     font-family: 'Work Sans', sans-serif;
